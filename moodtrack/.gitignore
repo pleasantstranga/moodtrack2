@@ -12,6 +12,10 @@ target/
 .settings
 .springBeans
 .sts4-cache
+.DS_STORE
+.mvnw
+.mvnw.cmd
+.gitignore
 
 ### IntelliJ IDEA ###
 .idea
@@ -31,3 +35,8 @@ build/
 
 ### VS Code ###
 .vscode/
+
+## Maven ###
+/.mvn/
+/mvnw
+/mvnw.cmd
