@@ -1,0 +1,18 @@
+[
+  {
+    "groupId": "com.fasterxml.jackson.core",
+    "changeAmount": "1",
+    "artifactId": "jackson-databind",
+    "changeType": "SET",
+    "changeVersionType": "FULL",
+    "isSnapShot": false
+  },
+  {
+    "groupId": "org.springframework.boot",
+    "changeAmount": "1",
+    "artifactId": "spring-boot-autoconfigure",
+    "changeVersionType": "FULL",
+    "changeType": "SET",
+    "isSnapShot": false
+  }
+]
